@@ -1,11 +1,11 @@
-### Hi there I'm Kwon SeolA 👋
+## Hi there I'm Kwon SeolA 👋
 
-#### Web Front-End Developer
+### Web Front-End Developer
 
 * 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 * 🌱 I’m currently learning React, Redux, Vue, HTML5, CSS3
 
-#### 💪 Skills
+### 💪 Skills
 **Platforms & Languages**
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -13,6 +13,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daodaoala&show_icons=true&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodaoala&layout=compact&theme=buefy)
 
 
+### 📬 Contacts
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://daodaoala.github.io/)](https://daodaoala.github.io/)
 
 <!--
 **daodaoala/daodaoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
