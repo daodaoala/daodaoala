@@ -1,6 +1,6 @@
 ### Hi there I'm Kwon SeolA 👋
 
-#### Web Front-End, Back-End Developer
+#### Web Front-End Developer
 
 * 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 * 🌱 I’m currently learning React, Redux, Vue, HTML5, CSS3
