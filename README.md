@@ -1,5 +1,5 @@
 ## Hi there I'm Kwon SeolA 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daodaoala&show_icons=true&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodaoala&layout=compact&theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daodaoala&show_icons=true&theme=nightowl) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daodaoala&layout=compact&theme=nightowl)
 
 ### 🙋‍♂️ Web Front-End Developer
 
