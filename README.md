@@ -6,6 +6,7 @@
 * 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 * 🌱 I’m currently learning React, Redux, Vue, HTML5, CSS3
 
+
 ### 💪 Skills
 **Platforms & Languages**
 
