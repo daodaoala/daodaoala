@@ -20,11 +20,11 @@
 
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sulah0326@naver.com)](mailto:sulah0326@naver.com)
 
+
+### ✨ Career ✨
+
+| dddd | ssss |
 <!--
-**daodaoala/daodaoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 - 🌱 I’m currently learning React, Redux, Vue, HTML, CSS
 - 👯 I’m looking to collaborate on ...
