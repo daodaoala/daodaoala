@@ -31,8 +31,8 @@
 | 🔥 2021 Capstone | A web service that schedules CCHP and analyzes economic feasibility through prediction of demand for electricity consumption on university campuses. | 2020.09~2020.12 | Sejong University | 🥇 **The Top Prize / 🥉 A Bronze Prize** |
 | 🛠 web service development | User Health Information Prediction Web Service Using Seoul National University Algorithm Logic | 2021.05~2021.08 | JayeonSoft, Wellxecon |  |
 | 🛠 web service development | WebSocket-based video compression demonstration site using AI models | 2021.06~2021.06 | JayeonSoft, Prediction |  |
-| 🛠 web service development | sound-related prototype PC web service | 2021.09~2021.11 | JayeonSoft |  |
-| 🛠 web service development | internal data management and monitoring web services | 2021.12~2022.01 | JayeonSoft |  |
+| 🛠 web service development | Sound-related prototype PC web service | 2021.09~2021.11 | JayeonSoft |  |
+| 🛠 web service development | Internal data management and monitoring web services | 2021.12~2022.01 | JayeonSoft |  |
 
 
 
