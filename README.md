@@ -25,9 +25,12 @@
 
 | Type | Contents | Date | Organiziaion | Awards |
 |:----------:|:--------------------------:|:----------:|:----------:|:-------:|
-| 🎓Education | Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
-| 📕 Assignment Project |테스트2| 2020.06 ~ 2020.07 | Sejong University |  |
-| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 |
+| 🎓 Education | Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
+| 📕 Assignment Project | In order to help residents in the Seoul metropolitan area relieve coronavirus anxiety, we have developed a web service that provides regional corona status and various services for residents in the Seoul metropolitan area. | 2020.06 ~ 2020.07 | Sejong University |  |
+| 🧩 2020 SW Hackathon | For foreign students who are having a hard time getting the information they need for school life, we have developed a school life guide web service that helps them adapt well to school life and provides necessary information easily. | 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
+| 🧩 2021 Capstone | In order to reduce waste of energy use in educational institutions, economic analysis and CCHP scheduling web applications were developed through predictions of power usage in schools. | 2020.09 ~ 2020.12  | Sejong University | 🥇 The Top Prize / 🥉 A Bronze Prize |
+| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
+| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
 <!--
 - 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 - 🌱 I’m currently learning React, Redux, Vue, HTML, CSS
