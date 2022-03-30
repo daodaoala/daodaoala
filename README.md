@@ -25,7 +25,7 @@
 
 | Type | Contents | Date | Organiziaion | Awards |
 |:----------:|:--------------------------:|:----------:|:----------:|:-------:|
-| 🎓 Education | Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
+| 🎓 Education | :Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
 | 📕 Assignment Project | Web service to notify the current status of COVID-19 confirmed patients in the Seoul metropolitan area | 2020.06~2020.07 | Sejong University |  |
 | 🧩 2020 SW Hackathon | Our school's foreign students' school life support web service | 2020.07~2020.07 | Sejong University | 🥉 The Encouragement Prize |
 | 🧩 2021 Capstone | A web service that schedules CCHP and analyzes economic feasibility through prediction of demand for electricity consumption on university campuses. | 2020.09~2020.12 | Sejong University | 🥇 The Top Prize / 🥉 A Bronze Prize |
