@@ -26,11 +26,13 @@
 | Type | Contents | Date | Organiziaion | Awards |
 |:----------:|:--------------------------:|:----------:|:----------:|:-------:|
 | 🎓 Education | Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
-| 📕 Assignment Project | In order to help residents in the Seoul metropolitan area relieve coronavirus anxiety, we have developed a web service that provides regional corona status and various services for residents in the Seoul metropolitan area. | 2020.06 ~ 2020.07 | Sejong University |  |
-| 🧩 2020 SW Hackathon | For foreign students who are having a hard time getting the information they need for school life, we have developed a school life guide web service that helps them adapt well to school life and provides necessary information easily. | 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
-| 🧩 2021 Capstone | In order to reduce waste of energy use in educational institutions, economic analysis and CCHP scheduling web applications were developed through predictions of power usage in schools. | 2020.09 ~ 2020.12  | Sejong University | 🥇 The Top Prize / 🥉 A Bronze Prize |
-| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
-| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
+| 📕 Assignment Project | Web service to notify the current status of COVID-19 confirmed patients in the Seoul metropolitan area | 2020.06 ~ 2020.07 | Sejong University |  |
+| 🧩 2020 SW Hackathon | Our school's foreign students' school life support web service | 2020.07 ~ 2020.07 | Sejong University | 🥉 The Encouragement Prize |
+| 🧩 2021 Capstone | A web service that schedules CCHP and analyzes economic feasibility through prediction of demand for electricity consumption on university campuses. | 🥇 The Top Prize / 🥉 A Bronze Prize |
+| 🛠 web service development | User Health Information Prediction Web Service Using Seoul National University Algorithm Logic | 2021.05 ~ 2021.08 | JayeonSoft, Wellxecon |  |
+| 🛠 web service development | WebSocket-based video compression demonstration site using AI models | 2021.06 ~ 2021.06 | JayeonSoft, Prediction |  |
+| 🛠 web service development | sound-related prototype PC web service | 2021.09 ~ 2021.11 | JayeonSoft |  |
+| 🛠 web service development | internal data management and monitoring web services | 2021.12 ~ 2022.01 | JayeonSoft |  |
 <!--
 - 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 - 🌱 I’m currently learning React, Redux, Vue, HTML, CSS
