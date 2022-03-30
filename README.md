@@ -26,8 +26,8 @@
 | Type | Contents | Date | Organiziaion | Awards |
 |:----------:|:--------------------------:|:----------:|:----------:|:-------:|
 | 🎓Education | Computer Engineering Bachelor | 2017.03~2021.02 | Sejong University | |
-| 📕 Assignment Project |테스트2| 2020.06 ~ 2020.07 | Sejong University |� |
-| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University |�🥉|
+| 📕 Assignment Project |테스트2| 2020.06 ~ 2020.07 | Sejong University |  |
+| 🧩 2020 SW Hackathon |테스트2| 2020.07 ~ 2020.07 | Sejong University | 🥉 |
 <!--
 - 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
 - 🌱 I’m currently learning React, Redux, Vue, HTML, CSS
