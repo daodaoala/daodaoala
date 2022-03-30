@@ -4,7 +4,7 @@
 ### 🙋‍♂️ Web Front-End Developer
 
 * 🔭 I’m currently working on Jayeonsoft (Seongsu, South Korea)
-* 🌱 I’m currently learning React, Vue, HTML5, CSS3
+<!-- * 🌱 I’m currently learning React, Vue, HTML5, CSS3 -->
 
 
 ### ✍ Language Stack ✍
