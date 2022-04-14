@@ -33,7 +33,7 @@
 | 🛠 web service development | WebSocket-based video compression demonstration site using AI models | 2021.06~2021.06 | JayeonSoft, Prediction |  |
 | 🛠 web service development | Sound-related prototype PC web service | 2021.09~2021.11 | JayeonSoft |  |
 | 🛠 web service development | Internal data management and monitoring web services | 2021.12~2022.01 | JayeonSoft |  |
-| 💰 Bithumb Tech Academy | Frontend with React | 2022.04~2022.05 | Bithumb |  |
+<!-- | 💰 Bithumb Tech Academy | Frontend with React | 2022.04~2022.05 | Bithumb |  | -->
 
 
 <!--
