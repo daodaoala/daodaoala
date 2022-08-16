@@ -6,6 +6,7 @@
 ### 🙋‍♂️ Web Front-End Developer
 
 * 🔭 I have a history of working at Jayeonsoft for more than a year. (Seongsu, South Korea) 
+* 🌱 I completed the Bithumb Tech Academy Education.
 <!-- * 🌱 I’m currently learning React, Vue, HTML5, CSS3 -->
 
 
